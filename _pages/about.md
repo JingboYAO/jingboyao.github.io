@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a fourth-year PhD student from [School of Business](https://bm.hkust.edu.hk/), [Hong Kong University of Science and Technology](https://hkust.edu.hk/). My research interests include Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
+I'm a fourth-year PhD student from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. My research interests include Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
 
 You can find my CV here: [Jingbo YAO's Curriculum Vitae](../assets/CV_jingbo.pdf).
 
