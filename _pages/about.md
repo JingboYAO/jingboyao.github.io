@@ -12,6 +12,6 @@ I'm a fourth-year PhD student from [School of Business](https://bm.hkust.edu.hk/
 
 You can find my CV here: [Jingbo YAO's Curriculum Vitae](../assets/CV_jingbo.pdf).
 
-[Email](jyaoam@connect.ust.hk) / [Github](https://github.com/JingboYAO))
+[Email](jyaoam@connect.ust.hk)
 
 
