@@ -1,6 +1,5 @@
 ---
 permalink: /my_teaching/
-title: "Research"
 author_profile: true
 ---
 
