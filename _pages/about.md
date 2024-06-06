@@ -12,6 +12,6 @@ I'm a fourth-year PhD student from the [Department of Economics](https://econ.hk
 
 You can find my CV here: [Jingbo YAO's Curriculum Vitae](../assets/CV_jingbo.pdf).
 
-[Email](jyaoam@connect.ust.hk)
+[Email]: jyaoam@connect.ust.hk
 
 
