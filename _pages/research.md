@@ -3,7 +3,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working papers
+
 
 
 1. Global Monetary Policy Shocks and Export Prices}}
