@@ -18,4 +18,4 @@ You can find my CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5m
 
 Email: jyaoam@connect.ust.hk
 
-Address: Room 4636, LSK Building, HKUST, Clear Water Bay, Kowloon Hong Kong
+Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong
