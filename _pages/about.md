@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a fourth-year PhD student from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
+I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
 # Research interests
 Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
