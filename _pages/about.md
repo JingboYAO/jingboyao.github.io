@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image description](../images/Kindred-Spirits-I_24x102.jpg)
+
 
 I'm a fourth-year PhD student from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. My research interests include Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
 
