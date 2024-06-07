@@ -1,3 +1,4 @@
+![image description](../images/Kindred-Spirits-I_24x102.jpg)
 ---
 permalink: /
 title: "About me"
