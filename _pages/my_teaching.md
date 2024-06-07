@@ -1,6 +1,7 @@
 ---
 permalink: /my_teaching/
 author_profile: true
+title: Teaching
 ---
 
 ## Hong Kong University of Science and Technology
