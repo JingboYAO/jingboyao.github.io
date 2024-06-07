@@ -4,6 +4,7 @@ author_profile: true
 title: "Research"
 ---
 
+![image description](../images/research_background.jpg)
 
 ## Working Papers
 
