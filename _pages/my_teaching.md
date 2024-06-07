@@ -3,8 +3,6 @@ permalink: /my_teaching/
 author_profile: true
 ---
 
-# Teaching
-
 ## Hong Kong University of Science and Technology
 + Teaching Assistant: Banking and Financial Intermediation (Master)
 + Teaching Assistant: Macroeconomic Analysis (Master)
