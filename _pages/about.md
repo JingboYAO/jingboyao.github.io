@@ -15,6 +15,7 @@ Monetary Economics, International Macro and Trade, International Finance, Chines
 
 # Contact
 You can find my CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5mpn/CV_Jingbo.pdf?rlkey=cbj5ylgbpilot96zgivdpfx28&st=g7yoc7s8&dl=0).
+
 Email: jyaoam@connect.ust.hk
 
-
+Address: Room 4636, LSK Building, HKUST, Clear Water Bay, Kowloon Hong Kong
