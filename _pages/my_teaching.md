@@ -4,6 +4,8 @@ author_profile: true
 title: Teaching
 ---
 
+![image description](../images/teaching_background.jpg)
+
 ## Hong Kong University of Science and Technology
 + Teaching Assistant: Banking and Financial Intermediation (Master)
 + Teaching Assistant: Macroeconomic Analysis (Master)
