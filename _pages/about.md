@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<center><font face="微软雅黑" size=30>Jingbo YAO (姚景浡)</center>
+<center><font face="微软雅黑" size=20>Jingbo YAO (姚景浡)</center>
 
 
 
