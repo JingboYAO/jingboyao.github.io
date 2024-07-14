@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
-  
-<img  src="/images/jingbo.jpg" width="400" align="center"/>
+<p align = "center">    
+<img  src="/images/jingbo.jpg" width="300" />
+</p>
 
 
 # About me
