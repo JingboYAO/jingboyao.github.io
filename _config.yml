@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : <img src="/images/logo.png"  width="30"  height="30" />
+title                    : "<img src="/images/logo.png"  width="30"  height="30" />" "Home"
 
 title_separator          : "-"
 name                     : &name "Your Name"
