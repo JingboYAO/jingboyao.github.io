@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![](/images/jingbo.jpg)
-
 
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
