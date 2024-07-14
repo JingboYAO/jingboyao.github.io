@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "images/logo.png" "Jingbo YAO"
+title                    : "Jingbo YAO"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "jingbo.jpg"
+  avatar           : "logo.png"
   name             : # "Jingbo YAO (姚景浡)"
   pronouns         : # example: "she/her"  
   bio              : # "PhD in Economics"
