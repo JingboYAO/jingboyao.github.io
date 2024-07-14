@@ -22,10 +22,12 @@ This paper examines how global monetary policies impact the export pricing behav
 </details>
 
 <details>
-<summary><font color="MidnightBlue"> Presentation </font></summary> 
-
+<summary><font color="MidnightBlue"> Presentation </font></summary>
+  
+`
 HKUST-Jinan Macro Student Symposium (2023), the HKUST Research Postgraduate Student Workshop (2023), 17th Australasian Trade Workshop (2024), EITI, Jakarta, Indonesia (2024), NBER-EASE, Hong Kong (2024), AMES, Hangzhou (2024), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), CICF, Beijing(2024)
-
+`
+  
 </details>
 
 - - -
@@ -35,7 +37,9 @@ HKUST-Jinan Macro Student Symposium (2023), the HKUST Research Postgraduate Stud
 <details>
 <summary><font color="MidnightBlue"> Summary </font></summary>
 
+`
 This paper provides evidence on the Fed information effect of large-scale asset purchases (LSAP) through the responses of US firm-level stock prices. We first present a novel empirical finding that unexpected expansionary US LSAP shocks, derived from high-frequency future price changes around FOMC announcements, have a negative impact on the stock market during the QE period, with the sign reversing in the latter Taper period. We then show that our findings are consistent with the information effect of LSAP. Specifically, based on the green book projection data of the Fed, we show that an easing policy signals a worsening economic outlook for the Fed, leading to a decrease in equity investors' confidence. Furthermore, our research reveals that the transmission of LSAP shock's information effect to the stock market is primarily through the risk premium channel, with more significant impacts on firms that are more procyclical and have greater risk exposure. Finally, it is found that the information effect of LSAP is state-dependent, with a more pronounced impact under worse economic circumstances. 
+`
 
 </details>
 
@@ -43,7 +47,9 @@ This paper provides evidence on the Fed information effect of large-scale asset 
 <details>
 <summary><font color="MidnightBlue"> Presentation </font></summary> 
 
+`
 Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Singapore (2023), WEAI, San Diego (2023), AMES, Hangzhou (canceled), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), 8th CCER Summer Institute, Beijing (2024)
+`
 
 </details>
 
