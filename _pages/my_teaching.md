@@ -1,7 +1,7 @@
 ---
 permalink: /my_teaching/
 author_profile: true
-title:
+title: ""
 ---
 
 # <center><font color="MidnightBlue"> Teaching </font></center>
