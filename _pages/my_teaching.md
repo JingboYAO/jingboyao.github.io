@@ -1,10 +1,10 @@
 ---
 permalink: /my_teaching/
 author_profile: true
-title: Teaching
+title:
 ---
 
-
+# <center><font color="MidnightBlue"> Teaching </font></center>
 
 ## Hong Kong University of Science and Technology
 + Teaching Assistant: Banking and Financial Intermediation (Master)
