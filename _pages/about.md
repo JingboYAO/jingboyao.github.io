@@ -1,12 +1,12 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+
+![](/images/jingbo.jpg)
+            </td>
+            <td>
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
 # Research interests
@@ -18,6 +18,14 @@ You can find my CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5m
 Email: jyaoam@connect.ust.hk
 
 Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
+
+Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
+            </td>
+        </tr>
+    </table>
+</html>
+
+
 
 
 
