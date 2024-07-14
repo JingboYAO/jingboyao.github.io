@@ -1,13 +1,14 @@
 ---
 permalink: /research/
 author_profile: true
-title: "Research"
+title: ""
 ---
 
 
 
+# <center><font color="MidnightBlue"> Research </font></center>
 
-## <font color="green"> Working Papers </font>
+## <center><font color="MidnightBlue"> Working Papers </font></center>
 
 
 **1. Global Monetary Policy Shocks and Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
