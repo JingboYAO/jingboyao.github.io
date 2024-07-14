@@ -12,13 +12,9 @@ redirect_from:
 </p>
 
 
-
-
-
 <p>    
 <img  align="left" src="/images/jingbowide.png" width=480 height=550  />
 </p>
-
 
 
 **About me**
