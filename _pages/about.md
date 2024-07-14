@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
+
+<table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
 
