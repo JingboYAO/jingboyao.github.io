@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "<img src=".\images\logo.png" width=35>"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jingbo YAO"
 description              : &description "personal description"
