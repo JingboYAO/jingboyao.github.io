@@ -12,7 +12,7 @@ title: "Research"
 
 
 
-**1. Global Monetary Policy Shocks and Export Prices** (with Yao Amber Li, Lingfei Lu, and Shangjin Wei)
+**1. Global Monetary Policy Shocks and Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*)
 <details>
   <summary>Abstract</summary>
 
@@ -23,7 +23,7 @@ title: "Research"
 </details>
 
 
-**2. Unconventional Monetary Policy and the U.S. Firm Stock Prices: the Information Effect Revisited** (with John Rogers, Wenbin Wu, and Juanyi Jenny Xu)
+**2. Unconventional Monetary Policy and the U.S. Firm Stock Prices: the Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*)
 <details>
   <summary>Abstract</summary>
 
