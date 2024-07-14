@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-<p>    
-<img  src="/images/jingbo.jpg" width="400" align="left"/>
-</p>
+  
+<img  src="/images/jingbo.jpg" width="400" align="center"/>
+
 
 # About me
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
