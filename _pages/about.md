@@ -22,9 +22,11 @@ I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk
 
 Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
 
-**Contact**
+**Other information**
 
-My CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5mpn/CV_Jingbo.pdf?rlkey=cbj5ylgbpilot96zgivdpfx28&st=g7yoc7s8&dl=0). Email: jyaoam@connect.ust.hk.
+My CV: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5mpn/CV_Jingbo.pdf?rlkey=cbj5ylgbpilot96zgivdpfx28&st=g7yoc7s8&dl=0).
+
+Email: jyaoam@connect.ust.hk.
 
 
 
