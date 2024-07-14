@@ -30,8 +30,8 @@ Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
 Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
             </td>
         </tr>
-    </table>
-</html>
+</table>
+
 
 
 
