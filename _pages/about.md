@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
 # Research interests
@@ -18,4 +17,7 @@ You can find my CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5m
 
 Email: jyaoam@connect.ust.hk
 
-Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong
+Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
+
+
+
