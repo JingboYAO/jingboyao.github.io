@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-**Jingbo YAO**
-**<font face="微软雅黑">姚景浡</font>**
+<center>**Jingbo YAO**</center>
+<center>**<font face="微软雅黑">姚景浡</font>**</center>
 
 
-<p align = "center">    
+
+
+<p>    
 <img  align="left" src="/images/jingbowide.png" width=480 height=550  />
 </p>
 
 
-
----
 
 **About me**
 
