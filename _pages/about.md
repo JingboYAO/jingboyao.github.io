@@ -7,15 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-<img  src="/images/jingbo.jpg" width="300" />
-            </td>
-            <td>
-                <!--右侧内容-->
+<table>
+  <tr>
+    <td ><img  src="/images/jingbo.jpg" width="300" /></td>
+    <td>
+
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
 
@@ -23,10 +19,15 @@ Monetary Economics, International Macro and Trade, International Finance, Chines
 
 
 You can find my CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5mpn/CV_Jingbo.pdf?rlkey=cbj5ylgbpilot96zgivdpfx28&st=g7yoc7s8&dl=0). Email: jyaoam@connect.ust.hk. Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong.
-            </td>
-        </tr>
-    </table>
-</html>
+
+  </td>
+  </tr>
+</table>
+
+
+
+
+
 
 
    
