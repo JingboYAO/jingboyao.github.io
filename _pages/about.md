@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<center><font face="黑体" color=#191970>Jingbo YAO (姚景浡)</center>
+<p>    
+<img  align="center" src="/images/jingbochinese.png"  />
+</p>
 
 
 
