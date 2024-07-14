@@ -8,24 +8,13 @@ redirect_from:
 ---
 
 
-
-
-
-
-
 <img  align="right" src="/images/jingbo.jpg" width="300" />
 
-这是一个示例图片。
+I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
-图片显示在 N 段文字的右边。
+Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
 
-N 与图片高度有关。
-
-刷屏行。
-
-刷屏行。
-
-到这里应该不会受影响了，本行应该延伸到了图片的正下方，所以我要足够长才能确保不同的屏幕下都看到效果。
+You can find my CV here: [CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5mpn/CV_Jingbo.pdf?rlkey=cbj5ylgbpilot96zgivdpfx28&st=g7yoc7s8&dl=0). Email: jyaoam@connect.ust.hk. Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong.
 
 
 
