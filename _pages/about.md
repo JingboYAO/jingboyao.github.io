@@ -7,14 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-
-<table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-
 ![](/images/jingbo.jpg)
-            </td>
-            <td>
+
+
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [School of Business](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
 # Research interests
@@ -28,9 +23,6 @@ Email: jyaoam@connect.ust.hk
 Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
 
 Address: Room 4063, LSK Building, HKUST, Clear Water Bay, Hong Kong>
-            </td>
-        </tr>
-</table>
 
 
 
