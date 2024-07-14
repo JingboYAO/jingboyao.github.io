@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jingbo.jpg"
-  name             : "Jingbo YAO (姚景浡)"
+  avatar           : # "jingbo.jpg"
+  name             : # "Jingbo YAO (姚景浡)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Economics"
-  location         : "Hong Kong"
-  employer         : "HKUST"
+  bio              : # "PhD in Economics"
+  location         : # "Hong Kong"
+  employer         : # "HKUST"
   uri              : # URL
-  email            : "jyaoam@connect.ust.hk" 
+  email            : # "jyaoam@connect.ust.hk" 
 
 
   # Academic websites
