@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<center>**Jingbo YAO**</center>
-<center>**<font face="微软雅黑">姚景浡</font>**</center>
+<center><font face="微软雅黑" size=30>Jingbo YAO</center>
+<center><font face="微软雅黑" size=30>姚景浡</font></center>
 
 
 
