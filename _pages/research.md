@@ -8,7 +8,7 @@ title: ""
 
 # <center><font color="MidnightBlue"> Research </font></center>
 
-## <center><font color="MidnightBlue"> Working Papers </font></center>
+## <font color="MidnightBlue"> Working Papers </font>
 
 
 **1. Global Monetary Policy Shocks and Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
