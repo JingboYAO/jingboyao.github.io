@@ -53,6 +53,8 @@ Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Si
 
 </details>
 
-
+`
+Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Singapore (2023), WEAI, San Diego (2023), AMES, Hangzhou (canceled), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), 8th CCER Summer Institute, Beijing (2024)
+`
 
 
