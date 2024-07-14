@@ -7,8 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+<p align = "center">    
+<img  align="left" src="/images/jingbo.jpg" width=350 height=500  />
+<img  align="left" src="/images/blank.png" width=100 height=500 />
+</p>
 
-<img  align="left" src="/images/jingbo.jpg" width="350" />
+
+
 
 **About me**
 
