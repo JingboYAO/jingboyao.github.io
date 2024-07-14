@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p>    
-<img  align="center" src="/images/jingboheadline.png" width=100 height=50 />
+<img  align="center" src="/images/jingbochinese.png" />
 </p>
 
 
