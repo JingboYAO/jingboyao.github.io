@@ -31,14 +31,18 @@ Email: jyaoam@connect.ust.hk.
 
 ---
 
-<p>    
-<img  align="left" src="/images/saying.png" />
-</p>
 
 <p>    
 <img  align="left" src="/images/background.jpg" />
 </p>
-   
+
+<p>    
+<img  align="left" src="/images/blank.png" />
+</p>
+
+<p>    
+<img  align="left" src="/images/saying.png" />
+</p>
 
 
 
