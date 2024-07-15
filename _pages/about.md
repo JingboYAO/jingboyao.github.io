@@ -37,10 +37,6 @@ Email: jyaoam@connect.ust.hk.
 </p>
 
 <p>    
-<img  align="left" src="/images/blank.png" />
-</p>
-
-<p>    
 <img  align="left" src="/images/saying.png" />
 </p>
 
