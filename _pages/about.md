@@ -13,7 +13,7 @@ redirect_from:
 
 
 <p>    
-<img  align="right" src="/images/jingbowide.png" width=480 height=550  />
+<img  align="center" src="/images/jingbowide.png" width=200 height=300  />
 </p>
 
 
