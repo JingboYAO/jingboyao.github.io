@@ -22,11 +22,11 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "jingbo.jpg"
-  name             : "<center>Jingbo YAO</center>"
+  name             : "   Jingbo YAO"
   pronouns         : # example: "she/her"  
-  bio              : "<center>PhD in Economics</center>"
-  location         : "<center>Hong Kong SAR</center>"
-  employer         : "<center>HKUST</center>"
+  bio              : "   PhD in Economics"
+  location         : "Hong Kong SAR"
+  employer         : "HKUST"
   uri              : # URL
   email            : "jyaoam@connect.ust.hk" 
 
