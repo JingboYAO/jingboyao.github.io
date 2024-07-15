@@ -17,24 +17,30 @@ redirect_from:
 
 **About me**
 
-<font face="微软雅黑">
-I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [Business School](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology. 
-</font>
+<table><tr><td bgcolor=AliceBlue>
+I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [Business School](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology.   
+</td></tr></table>
+
+
 
 
 **Research Interests**
 
-<font face="微软雅黑">
-Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc.
-</font>
+<table><tr><td bgcolor=AliceBlue>
+Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc. 
+</td></tr></table>
+
+
 
 
 **Other information**
 
-<font face="微软雅黑">
+<table><tr><td bgcolor=AliceBlue>
 [My CV](https://www.dropbox.com/scl/fi/4fkebc98c7168xb4g5mpn/CV_Jingbo.pdf?rlkey=cbj5ylgbpilot96zgivdpfx28&st=g7yoc7s8&dl=0). 
 Email: jyaoam@connect.ust.hk.
-</font>
+</td></tr></table>
+
+
 
 
 
