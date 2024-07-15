@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Jingbo YAO"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://jingboyao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "logo.png"
+  avatar           : # ""
   name             : # "Jingbo YAO (姚景浡)"
   pronouns         : # example: "she/her"  
   bio              : # "PhD in Economics"
