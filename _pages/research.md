@@ -10,7 +10,7 @@ title: ""
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
-**1. Global Monetary Policy Shocks and Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
+**1. Global Monetary Policy Shocks, Financial Frictions and Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary> 
