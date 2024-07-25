@@ -25,7 +25,7 @@ This paper examines how global monetary policies impact the export pricing behav
 <summary><font color="DarkBlue"> Presentation </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST-Jinan Macro Student Symposium (2023), the HKUST Research Postgraduate Student Workshop (2023), 17th Australasian Trade Workshop (2024), EITI, Jakarta, Indonesia (2024), NBER-EASE, Hong Kong (2024), AMES, Hangzhou (2024), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), CICF, Beijing(2024)
+HKUST-Jinan Macro Student Symposium (2023), the HKUST Research Postgraduate Student Workshop (2023), 17th Australasian Trade Workshop (2024), EITI, Jakarta, Indonesia (2024), NBER-EASE, Hong Kong (2024), AMES, Hangzhou (2024), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), CICF, Beijing(2024), NBER, Liaoning (2024)
 </td></tr></table>
 
 </details>
@@ -48,7 +48,7 @@ This paper provides evidence on the Fed information effect of large-scale asset 
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Singapore (2023), WEAI, San Diego (2023), AMES, Hangzhou (canceled), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), 8th CCER Summer Institute, Beijing (2024)
+Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Singapore (2023), WEAI, San Diego (2023), AMES, Hangzhou (canceled), the HKUST Research Postgraduate Student Workshop (2024), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), 8th CCER Summer Institute, Beijing (2024)
 </td></tr></table>
 
 </details>
