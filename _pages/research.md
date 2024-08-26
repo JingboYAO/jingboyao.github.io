@@ -72,7 +72,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST brown bag (2024)
+HKUST CEP (2024)
 </td></tr></table>
 
 </details>
