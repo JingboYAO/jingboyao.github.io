@@ -1,10 +1,10 @@
 # main links links
 main:
 
-  - title: "Research"
+  - title: "<center><font color="MidnightBlue"> Research </font></center>"
     url: /research/
     
-  - title: "Teaching"
+  - title: "<center><font color="MidnightBlue"> Teaching </font></center>"
     url: /my_teaching/    
     
     
