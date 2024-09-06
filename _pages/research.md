@@ -56,7 +56,7 @@ Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Si
 
 - - -
 
-**3. The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light** (*with Qichao Wang, and Juanyi Jenny Xu*)
+**3. The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light** (*with Kaiji Chen, Qichao Wang, and Juanyi Jenny Xu*)
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
