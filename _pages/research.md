@@ -67,7 +67,6 @@ We revisit the international spillover effects of the US monetary policy shock (
 
 </details>
 
-
 <details>
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
