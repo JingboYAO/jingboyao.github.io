@@ -20,7 +20,7 @@ redirect_from:
 I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [Business School](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology.   
 
 
-xxxxxx
+
 
 
 **Research Interests**
