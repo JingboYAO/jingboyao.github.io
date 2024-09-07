@@ -56,22 +56,4 @@ Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Si
 
 - - -
 
-**3. The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light** (*with Juanyi Jenny Xu*)
 
-<details>
-<summary><font color="DarkBlue"> Summary </font></summary>
-
-<table><tr><td bgcolor=AliceBlue> 
-We revisit the international spillover effects of the US monetary policy shock (MPS) using a new data source, the nighttime light (NTL), as a high-frequency proxy for real economic activities. We have several main findings. Firstly, the US MPS has a contemporaneous negative impact on China's output, and the peak comes about two months after the shock. Secondly, the overall negative response is mainly driven by non-built-up areas instead of city centers and suburbs. Thirdly, inland cities are more affected, and those with higher net export exposure respond less negatively to the shock. Finally, only the conventional monetary policy tool has a significant spillover effect, while the forward guidance plays a less important role. 
-</td></tr></table>
-
-</details>
-
-<details>
-<summary><font color="DarkBlue"> Presentation </font></summary> 
-
-<table><tr><td bgcolor=AliceBlue> 
-HKUST CEP (2024)
-</td></tr></table>
-
-</details>
