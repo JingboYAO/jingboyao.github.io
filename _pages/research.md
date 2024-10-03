@@ -75,3 +75,23 @@ HKUST CEP (2024)
 </td></tr></table>
 
 </details>
+
+
+- - -
+- - -
+
+## <font color="MidnightBlue"> Working in progress </font>
+
+**1. Monetary Transmission and International Price in an Open Economy**
+
+<details>
+<summary><font color="DarkBlue"> Summary </font></summary>
+
+<table><tr><td bgcolor=AliceBlue> 
+This paper reveals a new finding that the tightening of the US monetary policy shocks sometimes causes an increase in its import prices, which is contrary to the prediction of classical models and is against the Federal Reserve's efforts to control domestic inflation. Instead, it is consistent with the cost channel of monetary policy. In light of this, I embed this channel into a two-country open-economy New Keynesian model to study the transmission of monetary policy. It is found that this supply-side cost mechanism will increase inflation at home and abroad and aggravate the adverse spillover and spillback effects of monetary tightening on consumption by worsening exports in the foreign country and deteriorating the terms of trade in the home country. Finally, I also explore the optimal domestic policy and international coordination under this context.
+</td></tr></table>
+
+</details>
+
+
+</details>
