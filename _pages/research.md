@@ -77,8 +77,6 @@ HKUST CEP (2024)
 </details>
 
 
-- - -
-- - -
 
 ## <font color="MidnightBlue"> Working in progress </font>
 
@@ -93,5 +91,3 @@ This paper reveals a new finding that the tightening of the US monetary policy s
 
 </details>
 
-
-</details>
