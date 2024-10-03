@@ -62,7 +62,7 @@ Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Si
 <summary><font color="DarkBlue"> Summary </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-We revisit the international spillover effects of the US monetary policy shock (MPS) using a new data source, the nighttime light (NTL), as a high-frequency proxy for real economic activities. We have several main findings. Firstly, the US MPS has a contemporaneous negative impact on China's output, and the peak comes about two months after the shock. Secondly, the overall negative response is mainly driven by non-built-up areas instead of city centers and suburbs. Thirdly, inland cities are more affected, and those with higher net export exposure respond less negatively to the shock. Finally, only the conventional monetary policy tool has a significant spillover effect, while the forward guidance plays a less important role. 
+We revisit the international spillover effects of the US monetary policy shock (MPS) using a new data source, the daily nighttime light (NTL), as a high-frequency proxy for real economic activities. We find that the unexpected US tightening has a negative impact on China's output, and the peak comes about two months after the shock. The overall negative response is consistent with a construction investment channel, with the NTL variation mainly driven by non-built-up areas instead of city centers and suburbs. Consistently, cities with lower urbanization rates, and tighter financial conditions respond more negatively to a contractionary shock. Moreover, we show that trade exposure could partially mitigate the overall adverse impacts of a US tightening. 
 </td></tr></table>
 
 </details>
