@@ -10,13 +10,13 @@ title: ""
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
-**1. Global Monetary Policy Shocks, Financial Frictions and Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
+**1. The Spill-back and Spillover Effects of US Monetary Policy: Evidence from Chinese Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-This paper examines how global monetary policies impact the export pricing behaviors of Chinese firms using unexpected exogenous monetary shocks and disaggregated customs export data. Our findings show that the unexpected tightening of the US monetary policy will lead to an increase in China's export prices. This effect is attributed to a borrowing cost channel, which is related to firms' trade credit and liquidity conditions. Moreover, the impact of US monetary policy shocks on export prices is more profound for firms that face higher borrowing costs, tighter trade credit, and liquidity conditions. To further explain our empirical findings, we develop a heterogeneous firm trade model that incorporates financial frictions and external monetary shocks.
+We find that an unanticipated tightening of US monetary policy tends to raise US import prices. This ``spill-back" pattern differs from typical open-economy macro models in which a demand effect or an exchange rate effect dominates. We also document a new ``spillover" effect: import prices of other countries also rise following an unexpected US monetary tightening. To understand the mechanism, we examine Chinese exporters and identify a borrowing cost channel - their liquidity conditions generally deteriorate after a US monetary tightening. Indeed, the output price response is greater for firms facing higher borrowing costs or tighter liquidity conditions.
 </td></tr></table>
 
 </details>
@@ -32,13 +32,13 @@ HKUST-Jinan Macro Student Symposium (2023), the HKUST Research Postgraduate Stud
 
 - - -
 
-**2. Unconventional Monetary Policy and the U.S. Firm Stock Prices: the Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*)
+**2. LSAP Shocks and Stock Prices: The Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*)
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-This paper provides evidence on the Fed information effect of large-scale asset purchases (LSAP) through the responses of US firm-level stock prices. We first present a novel empirical finding that unexpected expansionary US LSAP shocks, derived from high-frequency future price changes around FOMC announcements, have a negative impact on the stock market during the QE period, with the sign reversing in the latter Taper period. We then show that our findings are consistent with the information effect of LSAP. Specifically, based on the green book projection data of the Fed, we show that an easing policy signals a worsening economic outlook for the Fed, leading to a decrease in equity investors' confidence. Furthermore, our research reveals that the transmission of LSAP shock's information effect to the stock market is primarily through the risk premium channel, with more significant impacts on firms that are more procyclical and have greater risk exposure. Finally, it is found that the information effect of LSAP is state-dependent, with a more pronounced impact under worse economic circumstances. 
+The central bank information effect is the subject of lively debate. We present a novel finding regarding the effects of U.S. large-scale asset purchase (LSAP) shocks and offer interpretations based on an information effect that varies both over time and across firms. Specifically, positive LSAP shocks depress U.S. stock returns during periods of quantitative easing (QE) but not in other sub-periods. An LSAP easing policy signals a worsening in the Fed's economic outlook, leading to a decrease in equity investors' confidence. This ``LSAP information effect" is more pronounced for more procyclical firms and is state-dependent, with larger effects during worse economic circumstances. The transmission of this LSAP shock information effect works primarily through the risk premium channel, with more significant effects on firms with higher risk exposure.
 </td></tr></table>
 
 </details>
@@ -71,7 +71,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST CEP (2024)
+HKUST CEP (2024), European Econometric Society Winter Meeting (2024), Spain, The International Finance and Banking Society IFABS (2024), Shanghai
 </td></tr></table>
 
 </details>
