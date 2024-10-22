@@ -25,7 +25,7 @@ We find that an unanticipated tightening of US monetary policy tends to raise US
 <summary><font color="DarkBlue"> Presentation </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST-Jinan Macro Student Symposium (2023), the HKUST Research Postgraduate Student Workshop (2023), 17th Australasian Trade Workshop (2024), EITI, Jakarta, Indonesia (2024), NBER-EASE, Hong Kong (2024), AMES, Hangzhou (2024), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), CICF, Beijing(2024), NBER, Liaoning (2024)
+The NBER Chinese Economy Working Group Meeting, the 2024 China International Conference in Finance, the 1st HKUST-Fudan-SMU Conference on International Economics, the NBER East Asian Seminar on Economics 2024, the 6th Melbourne Annual Macro Policy Meeting, International Association for Applied Econometrics Annual Conference 2024, Asian Finance Association Annual Conference 2024, Asian Meeting of the Econometric Society in China 2024, the 1st International Economics Joint Conference in Shenzhen, the 15th Empirical Investigations in Trade and Investment Conference, the 17th Australasian Trade Workshop, Monash, PKU(NSD), China Agricultural University, and HKUST.
 </td></tr></table>
 
 </details>
