@@ -71,7 +71,8 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST CEP (2024), European Econometric Society Winter Meeting (2024), Spain, The International Finance and Banking Society IFABS (2024), Shanghai
+HKUST Center of Economic Policy Seminar (2024), European Econometric Society Winter Meeting (2024), Spain, The International Finance and Banking Society IFABS (2024), Shanghai, The 11th International Conference on The Chinese Economy: Past, Present and Future, Suzhou, The 4th National Macroeconomics PhD student academic forum, Xiamen， Academic Seminar on International Trade Disputes and Globalization Reconstruction, Hong Kong.
+  
 </td></tr></table>
 
 </details>
