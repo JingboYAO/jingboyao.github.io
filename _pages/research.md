@@ -82,7 +82,7 @@ HKUST Center of Economic Policy Seminar (2024), European Econometric Society Win
 
 ## <font color="MidnightBlue"> Working in progress </font>
 
-**1. Monetary Transmission and International Price in a Patman Zone: A Cost Channel**
+**1. Monetary Transmission and International Price in a Patman Zone: a Cost Channel**
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
