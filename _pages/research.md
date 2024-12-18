@@ -10,29 +10,7 @@ title: ""
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
-**1. The Spill-back and Spillover Effects of US Monetary Policy: Evidence from Chinese Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
-
-<details>
-<summary><font color="DarkBlue"> Summary </font></summary> 
-
-<table><tr><td bgcolor=AliceBlue> 
-We find that an unanticipated tightening of US monetary policy tends to raise US import prices. This ``spill-back" pattern differs from typical open-economy macro models in which a demand effect or an exchange rate effect dominates. We also document a new ``spillover" effect: import prices of other countries also rise following an unexpected US monetary tightening. To understand the mechanism, we examine Chinese exporters and identify a borrowing cost channel - their liquidity conditions generally deteriorate after a US monetary tightening. Indeed, the output price response is greater for firms facing higher borrowing costs or tighter liquidity conditions.
-</td></tr></table>
-
-</details>
-
-<details>
-<summary><font color="DarkBlue"> Presentation </font></summary>
-
-<table><tr><td bgcolor=AliceBlue> 
-The NBER Chinese Economy Working Group Meeting, the 2024 China International Conference in Finance, the 1st HKUST-Fudan-SMU Conference on International Economics, the NBER East Asian Seminar on Economics 2024, the 6th Melbourne Annual Macro Policy Meeting, International Association for Applied Econometrics Annual Conference 2024, Asian Finance Association Annual Conference 2024, Asian Meeting of the Econometric Society in China 2024, the 1st International Economics Joint Conference in Shenzhen, the 15th Empirical Investigations in Trade and Investment Conference, the 17th Australasian Trade Workshop, Monash, PKU(NSD), China Agricultural University, and HKUST.
-</td></tr></table>
-
-</details>
-
-- - -
-
-**2. LSAP Shocks and Stock Prices: The Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*)
+**1. LSAP Shocks and Stock Prices: The Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*)
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
@@ -56,6 +34,29 @@ Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Si
 
 - - -
 
+**2. The Spill-back and Spillover Effects of US Monetary Policy: Evidence from Chinese Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
+
+<details>
+<summary><font color="DarkBlue"> Summary </font></summary> 
+
+<table><tr><td bgcolor=AliceBlue> 
+We find that an unanticipated tightening of US monetary policy tends to raise US import prices. This ``spill-back" pattern differs from typical open-economy macro models in which a demand effect or an exchange rate effect dominates. We also document a new ``spillover" effect: import prices of other countries also rise following an unexpected US monetary tightening. To understand the mechanism, we examine Chinese exporters and identify a borrowing cost channel - their liquidity conditions generally deteriorate after a US monetary tightening. Indeed, the output price response is greater for firms facing higher borrowing costs or tighter liquidity conditions.
+</td></tr></table>
+
+</details>
+
+<details>
+<summary><font color="DarkBlue"> Presentation </font></summary>
+
+<table><tr><td bgcolor=AliceBlue> 
+The NBER Chinese Economy Working Group Meeting, the 2024 China International Conference in Finance, the 1st HKUST-Fudan-SMU Conference on International Economics, the NBER East Asian Seminar on Economics 2024, the 6th Melbourne Annual Macro Policy Meeting, International Association for Applied Econometrics Annual Conference 2024, Asian Finance Association Annual Conference 2024, Asian Meeting of the Econometric Society in China 2024, the 1st International Economics Joint Conference in Shenzhen, the 15th Empirical Investigations in Trade and Investment Conference, the 17th Australasian Trade Workshop, Monash, PKU(NSD), China Agricultural University, and HKUST.
+</td></tr></table>
+
+</details>
+
+
+- - -
+
 **3. The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light** (*with Kaiji Chen, Qichao Wang, and Juanyi Jenny Xu*)
 
 <details>
@@ -71,7 +72,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST Center of Economic Policy Seminar (2024), European Econometric Society Winter Meeting (2024), Spain, The International Finance and Banking Society IFABS (2024), Shanghai, The 11th International Conference on The Chinese Economy: Past, Present and Future, Suzhou, The 4th National Macroeconomics PhD student academic forum, Xiamen， Academic Seminar on International Trade Disputes and Globalization Reconstruction, Hong Kong.
+HKUST Center of Economic Policy Seminar (2024), European Econometric Society Winter Meeting (2024), Spain, The International Finance and Banking Society IFABS (2024), Shanghai, The 11th International Conference on The Chinese Economy: Past, Present and Future, Suzhou, The 4th National Macroeconomics PhD student academic forum, Xiamen, The 14th Annual Meeting of China Trade Research Group cum International Conference on US-China Trade Disputes and Rearchitecture in Globalization, Hong Kong.
   
 </td></tr></table>
 
@@ -81,7 +82,7 @@ HKUST Center of Economic Policy Seminar (2024), European Econometric Society Win
 
 ## <font color="MidnightBlue"> Working in progress </font>
 
-**1. Monetary Transmission and International Price in an Open Economy**
+**1. Monetary Transmission and International Price in a Patman Zone: A Cost Channel**
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
