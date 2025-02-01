@@ -30,7 +30,7 @@ Monetary Economics, International Macro and Trade, International Finance, Chines
 
 **Other information**
 
-[My CV](https://www.dropbox.com/scl/fi/tkwy5h06cih05j6ci0reg/CV_Jingbo.pdf?rlkey=melmo40mt2ifvpz64dw39h2ik&st=aegxknk8&dl=0). 
+[My CV](). 
 Email: jyaoam@connect.ust.hk.
 
 
