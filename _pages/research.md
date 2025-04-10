@@ -72,7 +72,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST Center of Economic Policy Seminar (2024), European Econometric Society Winter Meeting (2024), Spain, The International Finance and Banking Society IFABS (2024), Shanghai, The 11th International Conference on The Chinese Economy: Past, Present and Future, Suzhou, The 4th National Macroeconomics PhD student academic forum, Xiamen, The 14th Annual Meeting of China Trade Research Group cum International Conference on US-China Trade Disputes and Rearchitecture in Globalization, Hong Kong.
+The 2025 CES North American Conference, 2025 China Accounting and Finance Conference, 2024 European Winter Meeting, IFABS 2024 Shanghai, The 14th Annual Meeting of China Trade Research Group cum International Conference on US-China Trade Disputes and Rearchitecture in Globalization, The 11th International Conference on The Chinese Economy: Past, Present and Future, 2024 Annual Conference of Economic Fluctuation and Growth Forum and the 4th National Macroeconomics PhD student academic forum, and the seminars at HKUST, University of Florida
   
 </td></tr></table>
 
@@ -82,13 +82,13 @@ HKUST Center of Economic Policy Seminar (2024), European Econometric Society Win
 
 ## <font color="MidnightBlue"> Working in progress </font>
 
-**1. Monetary Transmission and International Price in a Patman Zone: a Cost Channel**
+**1. The U.S. Monetary Transmission and International Prices: the Role of a Cost Channel**
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-Recent literature provides rich evidence on the financing cost channel of US monetary policy, which implies that a tightening policy is inflationary. This should be important for our understanding of how the Federal Reserve policy, as a main driver of the global financial cycle, would affect the inflation and output at home and abroad in an international context, especially under a pervasive flat Phillip curve. In light of this, I embed this channel into a two-country open-economy New Keynesian model to study the transmission of US monetary policy. It is found that this supply-side cost mechanism will lead to inflation pressure at home and abroad. The home and foreign output will also be disproportionately affected by the change in terms of trade. Moreover, the spillover and spillback effects of US monetary policy are determined by the foreign country's monetary policy stance. Finally, I also explore the optimal domestic policy and international coordination under this context.
+Recent evidence indicates that US monetary tightening is usually inflationary for international prices, which is contrary to canonical models. Thus, I embed a cost channel into a two-country model to study the transmission. This supply-side cost mechanism will lead to inflation pressure at home and abroad. The home and foreign output will also be disproportionately affected by the change in terms of trade. Moreover, the spillover and spillback effects of US monetary policy are determined by the foreign country's policy stance. Finally, the cost channel implies a tougher trade-off for optimal domestic policy and a larger room for international coordination.
 </td></tr></table>
 
 </details>
@@ -98,7 +98,7 @@ Recent literature provides rich evidence on the financing cost channel of US mon
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-HKUST Research Postgraduate Students Workshop (2025)
+The 3rd Journal of International Economics Summer School, the 2025 CES China Annual Conference, 2025 Asian Finance Association Annual Conference, the 2025 RCEA International Conference in Economics, Econometrics and Finance, New Jersey, University of California San Diego, HKUST Research Postgraduate Students Workshop (2025)
   
 </td></tr></table>
 
