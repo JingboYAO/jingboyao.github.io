@@ -98,8 +98,7 @@ Recent evidence indicates that US monetary tightening is usually inflationary fo
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-The 3rd Journal of International Economics Summer School, the 2025 CES China Annual Conference, 2025 Asian Finance Association Annual Conference, the 2025 RCEA International Conference in Economics, Econometrics and Finance, New Jersey, University of California San Diego, HKUST Research Postgraduate Students Workshop (2025)
-  
+The 3rd Journal of International Economics Summer School, 2025 CES China Annual Conference, 2025 Asian Finance Association Annual Conference, 2025 RCEA International Conference in Economics, Econometrics and Finance, and seminars at the University of California San Diego, Hong Kong University of Science and Technology
 </td></tr></table>
 
 </details>
