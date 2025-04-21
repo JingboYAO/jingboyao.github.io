@@ -25,7 +25,7 @@ I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk
 
 **<font color="MidnightBlue"> Research Interests </font>**
 
-Monetary Economics, International Macro and Trade, International Finance, Chinese Economy, etc. 
+International Macro and Trade, International Finance, Monetary Economics, Chinese Economy, etc.
 
 
 **<font color="MidnightBlue"> Other information </font>**
