@@ -72,7 +72,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-The 2025 CES North American Conference, 2025 China Accounting and Finance Conference, 2024 European Winter Meeting, IFABS 2024 Shanghai, The 14th Annual Meeting of China Trade Research Group cum International Conference on US-China Trade Disputes and Rearchitecture in Globalization, The 11th International Conference on The Chinese Economy: Past, Present and Future, 2024 Annual Conference of Economic Fluctuation and Growth Forum and the 4th National Macroeconomics PhD student academic forum, and the seminars at HKUST, University of Florida
+The 2025 Midwest Macroeconomics Meeting, Kansas Fed, The 2025 CES North American Conference, 2025 China Accounting and Finance Conference, 2024 European Winter Meeting, IFABS 2024 Shanghai, The 14th Annual Meeting of China Trade Research Group cum International Conference on US-China Trade Disputes and Rearchitecture in Globalization, The 11th International Conference on The Chinese Economy: Past, Present and Future, 2024 Annual Conference of Economic Fluctuation and Growth Forum and the 4th National Macroeconomics PhD student academic forum, and the seminars at HKUST, University of Florida
   
 </td></tr></table>
 
