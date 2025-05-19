@@ -34,13 +34,13 @@ Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Si
 
 - - -
 
-**2. The Spill-back and Spillover Effects of US Monetary Policy: Evidence from Chinese Export Prices** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
+**2. [The Spill-back and Spillover Effects of US Monetary Policy: Evidence on an International Cost Channel](https://www.nber.org/papers/w33811#:~:text=We%20find%20that%20an%20unanticipated,costs%20or%20tighter%20liquidity%20conditions.)** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-We find that an unanticipated tightening of US monetary policy tends to raise US import prices. This ``spill-back" pattern differs from typical open-economy macro models in which a demand effect or an exchange rate effect dominates. We also document a new ``spillover" effect: import prices of other countries also rise following an unexpected US monetary tightening. To understand the mechanism, we examine Chinese exporters and identify a borrowing cost channel - their liquidity conditions generally deteriorate after a US monetary tightening. Indeed, the output price response is greater for firms facing higher borrowing costs or tighter liquidity conditions.
+We find that an unanticipated tightening of US monetary policy tends to raise US import prices. This empirical ``spill-back" pattern differs from the predictions of typical open-economy macro models. We also document a new empirical ``spillover" effect: import prices of other countries also rise following an unexpected US monetary tightening. To understand the mechanism, we examine Chinese exporters and identify a borrowing cost channel—their liquidity conditions generally deteriorate after a US monetary tightening. Indeed, the output price response is greater for those firms facing higher borrowing costs or tighter liquidity conditions.
 </td></tr></table>
 
 </details>
