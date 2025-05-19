@@ -82,7 +82,7 @@ The 2025 Midwest Macroeconomics Meeting, Kansas Fed, The 2025 CES North American
 
 ## <font color="MidnightBlue"> Working in progress </font>
 
-**1. The U.S. Monetary Transmission and International Prices: the Role of a Cost Channel**
+**1. The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel**
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
