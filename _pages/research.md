@@ -26,7 +26,7 @@ The central bank information effect is the subject of lively debate. We present 
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-Fudan Brown Bag (2023), PKU-NUS Annual International Conference (2023), AMES, Singapore (2023), WEAI, San Diego (2023), AMES, Hangzhou (canceled), the HKUST Research Postgraduate Student Workshop (2024), IAAE, Xiamen (2024), AsianFA Annual Conference, Macau (2024), AMES, Vietnam (2024), 8th CCER Summer Institute, Beijing (2024)
+World Congress of ES, IAAE, AsianFA, CCER Summer Institute, PKU-NUS Annual Conference, AMES(Vietnam), AMES(Singapore), WEAI, Fudan FISF, HKUST
 </td></tr></table>
 
 </details>
@@ -49,7 +49,7 @@ We find that an unanticipated tightening of US monetary policy tends to raise US
 <summary><font color="DarkBlue"> Presentation </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-HKIMR-ECB-BOFIT Joint Conference on "Europe, Asia and the Changing Global Economy", the NBER Chinese Economy Working Group Meeting, the 2024 China International Conference in Finance, the 14th Annual Meeting of China Trade Research Group, the NBER East Asian Seminar on Economics 2024, the 1st HKUST-Fudan-SMU Conference on International Economics, the 6th Melbourne Annual Macro Policy Meeting, International Association for Applied Econometrics Annual Conference 2024, Asian Finance Association Annual Conference 2024, Asian Meeting of the Econometric Society in China 2024, the 1st International Economics Joint Conference in Shenzhen, the 15th Empirical Investigations in Trade and Investment Conference, the 17th Australasian Trade Workshop, and the seminar at Monash, PKU(NSD), China Agricultural University, NUFE, and HKUST.
+World Congress of ES, CES China, HKIMR-ECB-BOFIT Joint Conference, NBER China, CICF, CTRG, NBER East Asian, HKUST-Fudan-SMU Conference, Melbourne Annual Macro Policy Meeting, IAAE, AsianFA, AMES, International Economics Joint Conference in Shenzhen, EITI, ATW, Monash, PKU(NSD), China Agricultural University, NUFE, HKUST
 </td></tr></table>
 
 </details>
@@ -72,7 +72,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-The 2025 Midwest Macroeconomics Meeting, Kansas Fed, The 2025 CES North American Conference, 2025 China Accounting and Finance Conference, 2024 European Winter Meeting, IFABS 2024 Shanghai, The 14th Annual Meeting of China Trade Research Group cum International Conference on US-China Trade Disputes and Rearchitecture in Globalization, The 11th International Conference on The Chinese Economy: Past, Present and Future, 2024 Annual Conference of Economic Fluctuation and Growth Forum and the 4th National Macroeconomics PhD student academic forum, and the seminars at HKUST, University of Florida
+CFRC, World Congress of ES, European ES Winter, Midwest Macro, CICF, CICM, CES China, CES North American, IFABS, China Accounting and Finance Conference, International Conference on The Chinese Economy: Past, Present and Future, EFG, ITDGR, PKU(NSD), UIBE, Cheung Kong Graduate School of Business, HKUST, University of Florida
   
 </td></tr></table>
 
@@ -98,7 +98,7 @@ Recent evidence indicates that US monetary tightening is usually inflationary fo
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-The 3rd Journal of International Economics Summer School, 2025 CES China Annual Conference, 2025 Asian Finance Association Annual Conference, 2025 RCEA International Conference in Economics, Econometrics and Finance, and seminars at the University of California San Diego, Hong Kong University of Science and Technology
+JIE Summer School, CES China, AsianFA, RCEA, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
 </td></tr></table>
 
 </details>
