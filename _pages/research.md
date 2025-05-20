@@ -14,7 +14,7 @@ title: ""
 
 ## <font color="MidnightBlue"> Job Market Paper </font>
 
-** The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel**
+**The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel**
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
