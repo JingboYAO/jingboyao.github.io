@@ -6,7 +6,35 @@ title: ""
 
 
 
+
+
+
 # <center><font color="MidnightBlue"> Research </font></center>
+
+
+## <font color="MidnightBlue"> Job Market Paper </font>
+
+** The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel**
+
+<details>
+<summary><font color="DarkBlue"> Summary </font></summary>
+
+<table><tr><td bgcolor=AliceBlue> 
+Recent evidence indicates that US monetary tightening is usually inflationary for international prices, which is contrary to canonical models. Thus, I embed a cost channel into a two-country model to study the transmission. This supply-side cost mechanism will lead to inflation pressure at home and abroad. The home and foreign output will also be disproportionately affected by the change in terms of trade. Moreover, the spillover and spillback effects of US monetary policy are determined by the foreign country's policy stance. Finally, the cost channel implies a tougher trade-off for optimal domestic policy and a larger room for international coordination.
+</td></tr></table>
+
+</details>
+
+
+<details>
+<summary><font color="DarkBlue"> Presentation </font></summary> 
+
+<table><tr><td bgcolor=AliceBlue> 
+JIE Summer School, CES China, AsianFA, RCEA, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
+</td></tr></table>
+
+</details>
+
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
@@ -80,26 +108,5 @@ CFRC, World Congress of ES, European ES Winter, Midwest Macro, CICF, CICM, CES C
 
 
 
-## <font color="MidnightBlue"> Working in progress </font>
 
-**1. The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel**
-
-<details>
-<summary><font color="DarkBlue"> Summary </font></summary>
-
-<table><tr><td bgcolor=AliceBlue> 
-Recent evidence indicates that US monetary tightening is usually inflationary for international prices, which is contrary to canonical models. Thus, I embed a cost channel into a two-country model to study the transmission. This supply-side cost mechanism will lead to inflation pressure at home and abroad. The home and foreign output will also be disproportionately affected by the change in terms of trade. Moreover, the spillover and spillback effects of US monetary policy are determined by the foreign country's policy stance. Finally, the cost channel implies a tougher trade-off for optimal domestic policy and a larger room for international coordination.
-</td></tr></table>
-
-</details>
-
-
-<details>
-<summary><font color="DarkBlue"> Presentation </font></summary> 
-
-<table><tr><td bgcolor=AliceBlue> 
-JIE Summer School, CES China, AsianFA, RCEA, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
-</td></tr></table>
-
-</details>
   
