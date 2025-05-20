@@ -17,7 +17,8 @@ redirect_from:
 
 **<font color="MidnightBlue"> About me </font>**
 
-I'm a PhD candidate from the [Department of Economics](https://econ.hkust.edu.hk/homepage), [Business School](https://bm.hkust.edu.hk/), Hong Kong University of Science and Technology.   
+I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style="color: #003366;">Department of Economics</a>, <a href="https://bm.hkust.edu.hk/" style="color: #003366;">Business School</a>, Hong Kong University of Science and Technology.
+  
 
 
 
@@ -30,7 +31,7 @@ International Macro and Finance, Monetary Economics, International Trade, Chines
 
 **<font color="MidnightBlue"> Other information </font>**
 
-[My CV](). 
+<a href="" style="color: #003366;">My CV</a>. 
 Email: jyaoam@connect.ust.hk.
 
 
