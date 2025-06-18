@@ -26,13 +26,13 @@ I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style=
 
 **<font color="MidnightBlue"> Research Interests </font>**
 
-International Macro and Finance, Monetary Economics, International Trade, Chinese Economy, etc.
+International Macro and Finance, Monetary Economics, International Trade, Chinese Economy
 
 
 **<font color="MidnightBlue"> Other information </font>**
 
 <a href="" style="color: #003366;">My CV</a>. 
-Email: jyaoam@connect.ust.hk.
+Email: jyaoam@connect.ust.hk
 
 
 
