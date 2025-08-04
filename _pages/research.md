@@ -35,6 +35,7 @@ Future Scholars in Finance Forum, JIE Summer School, CES China, AsianFA, RCEA, C
 
 </details>
 
+Award: The Bank for International Settlements PhD Fellowship 2025; The Overseas Research Award HKUST 2025; 2025 Antai College, Shanghai Jiaotong Universtiy, Doctoral Forum Excellent Paper Award
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
@@ -59,6 +60,7 @@ World Congress of ES, IAAE, AsianFA, CCER Summer Institute, PKU-NUS Annual Confe
 
 </details>
 
+Award: SBM Research Postgraduate Award- Outstanding Research Award 2023-24
 
 - - -
 
@@ -84,6 +86,7 @@ World Congress of ES, CES China, HKIMR-ECB-BOFIT Joint Conference, NBER China, C
 </details>
 
 
+
 - - -
 
 **3. The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light** (*with Kaiji Chen, Qichao Wang, and Juanyi Jenny Xu*)
@@ -106,6 +109,8 @@ CFRC, World Congress of ES, European ES Winter, Midwest Macro, CICF, CICM, CES C
 </td></tr></table>
 
 </details>
+
+ Award: Journal of Banking & Finance Financial Intermediation Best Paper Award at 2025 Annual China Financial Research Conference
 
 
 
