@@ -26,7 +26,7 @@ I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style=
 
 **<font color="MidnightBlue"> Research Interests </font>**
 
-International Macro and Finance, Monetary Economics, International Trade, Chinese Economy
+My research interests lie in **International Macro and Finance**, **Monetary Economics**, **International Trade**, and the **Chinese Economy**. My current and future work centers on two broad themes: (1) From macro to micro: Understanding the causal effects and transmission mechanisms of macroeconomic shocks—such as monetary policy surprises—on real economic outcomes and financial markets, with a particular focus on international propagation; (2) From micro to macro: Studying the macroeconomic implications of market frictions and the design of optimal policy responses. In the first line, I employ state-of-the-art causal identification strategies and leverage detailed micro-level datasets—such as firm-product-level customs records, high-frequency nighttime light data, land transaction information, bond issuance data, forecast surveys, and intraday financial market variations—to trace the propagation of macro shocks. In the second line, I develop structural DSGE models to examine how financial frictions shape the responses of inflation, output, and trade to macroeconomic disturbances. I also analyze optimal policy design and potential international policy coordination in these contexts.
 
 
 **<font color="MidnightBlue"> Other information </font>**
