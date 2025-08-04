@@ -9,8 +9,8 @@ title: ""
 ## <font color="MidnightBlue"> Hong Kong University of Science and Technology </font>
 + Teaching Assistant: Banking and Financial Intermediation (Master)
 + Teaching Assistant: Macroeconomic Analysis (Master)
++ Teaching Assistant: Mathematics for Business and Economics (Master)
 + Teaching Assistant: Macroeconomic and Financial Risk Management (Undergraduate)
-+ Teaching Assistant: Labor Economics and Human Resources (Undergraduate)
 + Teaching Assistant: Money and Banking (Undergraduate)
 
 ## <font color="MidnightBlue"> Chinese Academy of Fiscal Sciences </font>
