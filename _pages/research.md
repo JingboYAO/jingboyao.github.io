@@ -110,7 +110,7 @@ CFRC, World Congress of ES, European ES Winter, Midwest Macro, CICF, CICM, CES C
 
 </details>
 
-+ Award: *Journal of Banking & Finance Financial Intermediation Best Paper Award at 2025 Annual China Financial Research Conference*
++ Award: *Journal of Banking & Finance -- Financial Intermediation Best Paper Award at 2025 Annual China Financial Research Conference*
 
 
 
