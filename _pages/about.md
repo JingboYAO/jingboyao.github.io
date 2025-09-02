@@ -17,7 +17,7 @@ redirect_from:
 
 **<font color="MidnightBlue"> About me </font>**
 
-I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style="color: #003366;">Department of Economics</a>, <a href="https://bm.hkust.edu.hk/" style="color: #003366;">Business School</a>, Hong Kong University of Science and Technology. I obtained my master's degree in Public Finance from the *Chinese Academy of Fiscal Science, Ministry of Finance of China*, and bachelor's degree in Financial Engineering from *Xiamen University*. I was a visiting scholar at the *University of California at San Diego* and a senior associate at the *Bank for International Settlements*.
+I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style="color: #003366;">Department of Economics</a>, <a href="https://bm.hkust.edu.hk/" style="color: #003366;">Business School</a>, Hong Kong University of Science and Technology. I obtained my master's degree in Public Finance from the *Chinese Academy of Fiscal Science, Ministry of Finance of China*, and bachelor's degree in Financial Engineering from *Xiamen University*. I was a visiting scholar at the *University of California San Diego* and a senior associate at the *Bank for International Settlements*.
   
 
 
