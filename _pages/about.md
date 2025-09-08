@@ -21,7 +21,8 @@ I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style=
   
 
 
-
+<a href="" style="color: #003366;">My CV</a>. 
+Email: jyaoam@connect.ust.hk
 
 
 **<font color="MidnightBlue"> Research Interests </font>**
@@ -31,10 +32,7 @@ My research interests lie in **International Macro and Finance**, **Monetary Eco
 + **From micro to macro**: Studying the macroeconomic implications of market frictions and the design of optimal policy responses.  In this regard, I develop structural DSGE models to examine how financial frictions shape the responses of inflation, output, and trade to macroeconomic disturbances. I also analyze optimal policy design and potential international policy coordination in these contexts.
 
 
-**<font color="MidnightBlue"> Other information </font>**
 
-<a href="" style="color: #003366;">My CV</a>. 
-Email: jyaoam@connect.ust.hk
 
 
 
