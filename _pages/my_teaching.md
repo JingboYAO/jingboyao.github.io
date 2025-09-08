@@ -12,6 +12,7 @@ title: ""
 + Teaching Assistant: Mathematics for Business and Economics (Master)
 + Teaching Assistant: Macroeconomic and Financial Risk Management (Undergraduate)
 + Teaching Assistant: Money and Banking (Undergraduate)
++ Teaching Assistant: Global Macroeconomics and International Investment Strategy (Undergraduate)
 
 ## <font color="MidnightBlue"> Chinese Academy of Fiscal Sciences </font>
 + Teaching Assistant: Applied Econometrics (Master)
