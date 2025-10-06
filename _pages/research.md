@@ -35,7 +35,7 @@ Future Scholars in Finance Forum, JIE Summer School, CES China, AsianFA, RCEA, S
 
 </details>
 
-+ Award: *The Bank for International Settlements PhD Fellowship 2025; The Overseas Research Award HKUST 2025; 2025 Antai College, Shanghai Jiaotong Universtiy, Doctoral Forum Excellent Paper Award*
++ Award: *The Bank for International Settlements PhD Fellowship 2025; The Overseas Research Award HKUST 2025; 2025 Antai College, Shanghai Jiaotong Universtiy, Doctoral Forum Outstanding Paper Award*
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
