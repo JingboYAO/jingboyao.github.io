@@ -30,7 +30,7 @@ Recent evidence indicates that US monetary tightening is usually inflationary fo
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-Bank for International Settlements, Future Scholars in Finance Forum, JIE Summer School, CES China, AsianFA, RCEA, Shanghai Jiaotong University, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
+Econometric Society European Winter Meeting (scheduled)，Bank for International Settlements, Future Scholars in Finance Forum, JIE Summer School, CES China, AsianFA, RCEA, Shanghai Jiaotong University, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
 </td></tr></table>
 
 </details>
