@@ -20,7 +20,7 @@ title: ""
 <summary><font color="DarkBlue"> Summary </font></summary>
 
 <table><tr><td bgcolor=AliceBlue> 
-Recent evidence indicates that US monetary tightening is usually inflationary for international prices, which is contrary to canonical models. Thus, I embed a cost channel into a two-country model to study the transmission. This supply-side cost mechanism will lead to inflation pressure at home and abroad. The home and foreign output will also be disproportionately affected by the change in terms of trade. Moreover, the spillover and spillback effects of US monetary policy are determined by the foreign country's policy stance. Finally, the cost channel implies a tougher trade-off for optimal domestic policy and a larger room for international coordination.
+The cost channel of the U.S. monetary policy is highlighted in the literature. However, its macro implications in an international context remain underexplored. I embed this channel into a New-Keynesian two-country model, yielding novel insights on the spillback and spillover effects of the U.S. monetary policy and providing alternative explanations for some well-documented facts or puzzles. For instance, this channel suggests a contractionary U.S. monetary shock could potentially induce import inflation for the U.S. or other economies; it weakens the expenditure-switching effect contributing to the comovement of the U.S. and foreign output. Considering dollar currency invoicing, complementary pricing, borrowing in dollar, this effect could be even augmented. Moreover, it implies a tougher trade-off for optimal domestic policy and a larger room for international policy coordination.
 </td></tr></table>
 
 </details>
