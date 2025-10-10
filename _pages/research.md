@@ -104,7 +104,7 @@ We revisit the international spillover effects of the US monetary policy shock (
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-CFRC, World Congress of ES, European ES Winter, Midwest Macro, CICF, CICM, CES China, CES North American, IFABS, China Accounting and Finance Conference, International Conference on The Chinese Economy: Past, Present and Future, EFG, ITDGR, PKU(NSD), UIBE, Cheung Kong Graduate School of Business, HKUST, University of Florida
+NBER China (scheduled), CFRC, World Congress of ES, European ES Winter, Midwest Macro, CICF, CICM, CES China, CES North American, IFABS, China Accounting and Finance Conference, International Conference on The Chinese Economy: Past, Present and Future, EFG, ITDGR, PKU(NSD), UIBE, Cheung Kong Graduate School of Business, HKUST, University of Florida
   
 </td></tr></table>
 
