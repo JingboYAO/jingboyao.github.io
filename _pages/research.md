@@ -30,7 +30,7 @@ The cost channel of the U.S. monetary policy is highlighted in the literature. H
 <summary><font color="DarkBlue"> Presentation </font></summary> 
 
 <table><tr><td bgcolor=AliceBlue> 
-Econometric Society European Winter Meeting (scheduled)，Bank for International Settlements, Future Scholars in Finance Forum, JIE Summer School, CES China, AsianFA, RCEA, Shanghai Jiaotong University, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
+Econometric Society European Winter Meeting (scheduled)，Bank for International Settlements, PBCSF Future Scholars in Finance Forum, JIE Summer School, CES China, AsianFA, RCEA, Shanghai Jiaotong University, Chinese Academy of Fiscal Sciences, HKUST, University of California San Diego
 </td></tr></table>
 
 </details>
