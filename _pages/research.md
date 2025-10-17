@@ -40,6 +40,7 @@ Econometric Society European Winter Meeting (scheduled)，Bank for International
 ## <font color="MidnightBlue"> Working Papers </font>
 
 **1. LSAP Shocks and Stock Prices: The Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*)
+
 Submitted
 
 <details>
@@ -68,6 +69,7 @@ World Congress of ES, IAAE, AsianFA, CCER Summer Institute, PKU-NUS Annual Confe
 **2. The Spill-back and Spillover Effects of US Monetary Policy: Evidence on an International Cost Channel** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) <a href="https://www.nber.org/papers/w33811#:~:text=We%20find%20that%20an%20unanticipated,costs%20or%20tighter%20liquidity%20conditions." style="color: #003366;">*[NBER wp]*</a>
 
 Revise and Resubmit at Journal of Monetary Economics
+
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary> 
 
