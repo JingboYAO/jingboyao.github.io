@@ -39,7 +39,7 @@ Econometric Society European Winter Meeting (scheduled)，Bank for International
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
-**1. LSAP Shocks and Stock Prices: The Information Effect Revisited** (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*), submitted
+<a href="https://www.econometricsociety.org/regional-activities/conference-papers/view/282/733" style="color: #003366;">LSAP Shocks and Stock Prices: The Information Effect Revisited</a> (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*), submitted
 
 
 <details>
