@@ -13,8 +13,8 @@ title: ""
 
 
 ## <font color="MidnightBlue"> Job Market Paper </font>
+<a href="https://www.dropbox.com/scl/fi/hatwfovwj6pjvs83krzmx/JMP_JingboYAO_2025Oct.pdf?rlkey=l80y7t2bslvridobfsxxop2zv&st=wui8c6eh&dl=0" style="color: #003366;">The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel</a> 
 
-**The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel**
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
@@ -65,7 +65,7 @@ World Congress of ES, IAAE, AsianFA, CCER Summer Institute, PKU-NUS Annual Confe
 
 - - -
 
-**2. The Spill-back and Spillover Effects of US Monetary Policy: Evidence on an International Cost Channel** (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) <a href="https://www.nber.org/papers/w33811#:~:text=We%20find%20that%20an%20unanticipated,costs%20or%20tighter%20liquidity%20conditions." style="color: #003366;">*[NBER wp]*</a>
+<a href="https://www.nber.org/papers/w33811#:~:text=We%20find%20that%20an%20unanticipated,costs%20or%20tighter%20liquidity%20conditions." style="color: #003366;">The Spill-back and Spillover Effects of US Monetary Policy: Evidence on an International Cost Channel </a> (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
 
 
 <details>
@@ -86,11 +86,11 @@ World Congress of ES, CES China, HKIMR-ECB-BOFIT Joint Conference, NBER China, C
 
 </details>
 
-+ Revise and Resubmit at Journal of Monetary Economics
++ Revise and Resubmit at *Journal of Monetary Economics*
 
 - - -
 
-**3. The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light** (*with Kaiji Chen, Qichao Wang, and Juanyi Jenny Xu*)
+<a href="https://www.econometricsociety.org/regional-activities/conference-papers/view/277/631" style="color: #003366;">The International Spillover of Monetary Policy Shock: New Evidence from Nighttime Light </a>  (*with Kaiji Chen, Qichao Wang, and Juanyi Jenny Xu*)
 
 <details>
 <summary><font color="DarkBlue"> Summary </font></summary>
