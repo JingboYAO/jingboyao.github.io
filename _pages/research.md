@@ -13,7 +13,7 @@ title: ""
 
 
 ## <font color="MidnightBlue"> Job Market Paper </font>
-<a href="https://www.dropbox.com/scl/fi/hatwfovwj6pjvs83krzmx/JMP_JingboYAO_2025Oct.pdf?rlkey=l80y7t2bslvridobfsxxop2zv&st=wui8c6eh&dl=0" style="color: #003366;">The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel</a> 
+<a href="https://www.dropbox.com/scl/fi/hatwfovwj6pjvs83krzmx/JMP_JingboYAO_2025Oct.pdf?rlkey=l80y7t2bslvridobfsxxop2zv&st=wui8c6eh&dl=0" style="color: MidnightBlue;">The U.S. Monetary Transmission and International Prices: The Role of a Cost Channel</a> 
 
 
 <details>
