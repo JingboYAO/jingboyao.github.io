@@ -21,7 +21,7 @@ I'm a PhD candidate from the <a href="https://econ.hkust.edu.hk/homepage" style=
   
 
 
-<a href="https://www.dropbox.com/scl/fo/8e20oinu9ykvyg2cuo3u5/AGRgdn1W1CIliDXDtn7hKdo?rlkey=my6ycvuvqhq4u2mtsupdvww0k&st=fm5pc53x&dl=0" style="color: #003366;">My CV</a>. 
+<a href="https://www.dropbox.com/scl/fo/8e20oinu9ykvyg2cuo3u5/AGRgdn1W1CIliDXDtn7hKdo?rlkey=my6ycvuvqhq4u2mtsupdvww0k&st=fm5pc53x&dl=0" style="color: MidnightBlue;">My CV</a>. 
 Email: jyaoam@connect.ust.hk
 
 
