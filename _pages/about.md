@@ -31,7 +31,7 @@ My research interests lie in **International Macro and Finance**, **Monetary Eco
 + **From macro to micro**: Understanding the causal effects and transmission mechanisms of macroeconomic shocks—such as monetary policy surprises—on real economic outcomes and financial markets, with a particular focus on international propagation. In this line, I employ state-of-the-art causal identification strategies and leverage detailed micro-level datasets—such as firm-product-level customs records, high-frequency nighttime light data, land transaction information, bond issuance data, forecast surveys, and intraday financial market variations—to trace the propagation of macro shocks.
 + **From micro to macro**: Studying the macroeconomic implications of market frictions and the design of optimal policy responses.  In this regard, I develop structural DSGE models to examine how financial frictions shape the responses of inflation, output, and trade to macroeconomic disturbances. I also analyze optimal policy design and potential international policy coordination in these contexts.
 
-
+<a href="https://www.dropbox.com/scl/fi/etb6rucxyd0fcal5verdn/Research_Statement_JingboYAO.pdf?rlkey=fjnzbcajfn730zoo12pujrhw2&st=vos3fkrn&dl=0" style="color: MidnightBlue;">**Research statement**</a>.
 
 
 
