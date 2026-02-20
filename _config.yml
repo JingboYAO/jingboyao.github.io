@@ -21,7 +21,7 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jingbo_new.png"
+  avatar           : "Jingbo_new_square.png"
   name             : "Jingbo YAO - 姚景浡"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
