@@ -39,31 +39,7 @@ Econometric Society European Winter Meeting (scheduled)，Bank for International
 
 ## <font color="MidnightBlue"> Working Papers </font>
 
-<a href="https://www.econometricsociety.org/regional-activities/conference-papers/view/282/733" style="color: black;">LSAP Shocks and Stock Prices: The Information Effect Revisited</a> (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*), submitted
 
-
-<details>
-<summary><font color="DarkBlue"> Summary </font></summary>
-
-<table><tr><td bgcolor=AliceBlue> 
-The central bank information effect is the subject of lively debate. We present a novel finding regarding the effects of U.S. large-scale asset purchase (LSAP) shocks and offer interpretations based on an information effect that varies both over time and across firms. Specifically, positive LSAP shocks depress U.S. stock returns during periods of quantitative easing (QE) but not in other sub-periods. An LSAP easing policy signals a worsening in the Fed's economic outlook, leading to a decrease in equity investors' confidence. This ``LSAP information effect" is more pronounced for more procyclical firms and is state-dependent, with larger effects during worse economic circumstances. The transmission of this LSAP shock information effect works primarily through the risk premium channel, with more significant effects on firms with higher risk exposure.
-</td></tr></table>
-
-</details>
-
-
-<details>
-<summary><font color="DarkBlue"> Presentation </font></summary> 
-
-<table><tr><td bgcolor=AliceBlue> 
-World Congress of ES, IAAE, AsianFA, CCER Summer Institute, PKU-NUS Annual Conference, AMES(Vietnam), AMES(Singapore), WEAI, Fudan FISF, HKUST
-</td></tr></table>
-
-</details>
-
-+ Award: *SBM Research Postgraduate Award- Outstanding Research Award 2023-24*
-
-- - -
 
 <a href="https://www.nber.org/papers/w33811#:~:text=We%20find%20that%20an%20unanticipated,costs%20or%20tighter%20liquidity%20conditions." style="color: black;">The Spill-back and Spillover Effects of US Monetary Policy: Evidence on an International Cost Channel</a> (*with Yao Amber Li, Lingfei Lu, and Shangjin Wei*) 
 
@@ -87,6 +63,33 @@ World Congress of ES, CES China, HKIMR-ECB-BOFIT Joint Conference, NBER China, C
 </details>
 
 + Revise and Resubmit at *Journal of Monetary Economics*
+
+- - -
+
+
+<a href="https://www.econometricsociety.org/regional-activities/conference-papers/view/282/733" style="color: black;">LSAP Shocks and Stock Prices: The Information Effect Revisited</a> (*with John Rogers, Wenbin Wu, and Juanyi Jenny Xu*), submitted
+
+
+<details>
+<summary><font color="DarkBlue"> Summary </font></summary>
+
+<table><tr><td bgcolor=AliceBlue> 
+The central bank information effect is the subject of lively debate. We present a novel finding regarding the effects of U.S. large-scale asset purchase (LSAP) shocks and offer interpretations based on an information effect that varies both over time and across firms. Specifically, positive LSAP shocks depress U.S. stock returns during periods of quantitative easing (QE) but not in other sub-periods. An LSAP easing policy signals a worsening in the Fed's economic outlook, leading to a decrease in equity investors' confidence. This ``LSAP information effect" is more pronounced for more procyclical firms and is state-dependent, with larger effects during worse economic circumstances. The transmission of this LSAP shock information effect works primarily through the risk premium channel, with more significant effects on firms with higher risk exposure.
+</td></tr></table>
+
+</details>
+
+
+<details>
+<summary><font color="DarkBlue"> Presentation </font></summary> 
+
+<table><tr><td bgcolor=AliceBlue> 
+World Congress of ES, IAAE, AsianFA, CCER Summer Institute, PKU-NUS Annual Conference, AMES(Vietnam), AMES(Singapore), WEAI, Fudan FISF, HKUST
+</td></tr></table>
+
+</details>
+
++ Award: *SBM Research Postgraduate Award- Outstanding Research Award 2023-24*
 
 - - -
 
